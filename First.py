@@ -1,0 +1,8 @@
+print("Welcome to the world!!!")
+print("What shall I call you??")
+name = input()
+print("It is nice to meet you " + name)
+print("Let's begin exploring...")
+print("Oh! By the way, the length of your name is " + len(name))
+print("Speaking of numbers, what is your age?")
+age = input()
